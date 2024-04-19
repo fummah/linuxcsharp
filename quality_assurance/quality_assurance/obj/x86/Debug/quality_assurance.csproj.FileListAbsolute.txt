@@ -1,0 +1,16 @@
+/home/mca/Projects/quality_assurance/quality_assurance/obj/x86/Debug/quality_assurance.csproj.AssemblyReference.cache
+/home/mca/Projects/quality_assurance/quality_assurance/obj/x86/Debug/quality_assurance.csproj.CoreCompileInputs.cache
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/quality_assurance.exe
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/quality_assurance.pdb
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/aaa_library.dll
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/WinSCPnet.dll
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/Renci.SshNet.dll
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/S22.Imap.dll
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/aaa_library.pdb
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/aaa_library.dll.config
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/Renci.SshNet.xml
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/S22.Imap.xml
+/home/mca/Projects/quality_assurance/quality_assurance/obj/x86/Debug/quality_assurance.csproj.CopyComplete
+/home/mca/Projects/quality_assurance/quality_assurance/obj/x86/Debug/quality_assurance.exe
+/home/mca/Projects/quality_assurance/quality_assurance/obj/x86/Debug/quality_assurance.pdb
+/home/mca/Projects/quality_assurance/quality_assurance/bin/Debug/MySql.Data.dll
